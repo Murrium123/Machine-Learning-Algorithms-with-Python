@@ -1,0 +1,1 @@
+R. Ratti, Ultimate Machine Learning Algorithms with Python Master Supervised, Unsupervised, Ensemble, and Deep Learning Models with Python, Scikit-Learn, Real Projects, and Production ML Workflows (English Edition). London: Orange Education PVT Ltd, 2026. 
